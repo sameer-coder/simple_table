@@ -1,0 +1,19 @@
+body {
+    margin:2em;
+background: #ADA996;
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);
+
+
+/* background: -webkit-linear-gradient(90deg, rgb(211, 223, 234), rgb(206, 224, 232));
+background: linear-gradient(90deg, rgb(211, 223, 234), rgb(206, 224, 232)); */
+
+
+}
+
+
+.one-edge-shadow {
+	-webkit-box-shadow: 0 8px 6px -6px #B1AC9C;
+	   -moz-box-shadow: 0 8px 6px -6px #B1AC9C;
+	        box-shadow: 0 8px 6px -6px #B1AC9C;
+}
